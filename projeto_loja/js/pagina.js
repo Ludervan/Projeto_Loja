@@ -1,0 +1,102 @@
+let modeloJson = [
+  {
+    id: 1,
+    name: 'Spider-Man #1',
+    img: 'img/hq1.png',
+    price: 10.99,
+    sizes: ['Básico', 'Capa Dura ', 'Dourado'],
+    description: 'HQ do Homem Aranha',
+  },
+  {
+    id: 2,
+    name: 'Secret War #1',
+    img: 'img/hq2.png',
+    price: 10.99,
+    sizes: ['Básico', 'Capa Dura ', 'Dourado'],
+    description: 'HQ Guerras Secreta',
+  },
+  {
+    id: 3,
+    name: 'Infinit War #1',
+    img: 'img/hq3.png',
+    price: 10.99,
+    sizes: ['Básico', 'Capa Dura ', 'Dourado'],
+    description: 'HQ Guerra Infinita Capa Gold',
+  },
+  {
+    id: 4,
+    name: 'Spider-Man #2',
+    img: 'img/hq4.png',
+    price: 19.99,
+    sizes: ['Básico', 'Capa Dura ', 'Dourado'],
+    description: 'HQ do Homem Aranha Capa Black',
+  },
+  {
+    id: 5,
+    name: 'Iron-Man #5',
+    img: 'img/hq5.png',
+    price: 19.99,
+    sizes: ['Básico', 'Capa Dura ', 'Dourado'],
+    description: 'HQ do Homem de Ferro Capa Red',
+  },
+  {
+    id: 6,
+    name: 'Spider-Man 2099',
+    img: 'img/hq6.png',
+    price: 10.99,
+    sizes: ['Básico', 'Capa Dura ', 'Dourado'],
+    description: 'HQ do Homem Aranha 2099',
+  },
+  {
+    id: 7,
+    name: 'Moon Knight #1',
+    img: 'img/hq7.png',
+    price: 10.99,
+    sizes: ['Básico', 'Capa Dura ', 'Dourado'],
+    description: 'HQ do Cavaleiro da Lua',
+  },
+  {
+    id: 8,
+    name: 'Civil War II  #1',
+    img: 'img/hq8.png',
+    price: 10.99,
+    sizes: ['Básico', 'Capa Dura ', 'Dourado'],
+    description: 'HQ Guerra Civil II',
+  },
+  {
+    id: 9,
+    name: 'Xmen vs Avengers  #1',
+    img: 'img/hq9.png',
+    price: 10.99,
+    sizes: ['Básico', 'Capa Dura ', 'Dourado'],
+    description: 'HQ Xmen vs Vingadores',
+  },
+
+  {
+    id: 10,
+    name: 'Venom-Verse  #1',
+    img: 'img/hq10.png',
+    price: 10.99,
+    sizes: ['Básico', 'Capa Dura ', 'Dourado'],
+    description: 'HQ do Venoms',
+  },
+
+  {
+    id: 11,
+    name: 'Spider-Verse  #1',
+    img: 'img/hq11.png',
+    price: 10.99,
+    sizes: ['Básico', 'Capa Dura ', 'Dourado'],
+    description: 'HQ do Rex Aranha',
+  },
+    
+  {
+    id: 12,
+    name: 'Spider-man 2099  #2',
+    img: 'img/hq12.png',
+    price: 19.99,
+    sizes: ['Básico', 'Capa Dura ', 'Dourado'],
+    description: 'HQ do Homem Aranha 2099',
+  }
+
+];
